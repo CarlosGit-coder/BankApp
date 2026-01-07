@@ -1,8 +1,3 @@
-Perfeito 👍
-Segue **exatamente no formato para colar direto no README**, no mesmo estilo do que você mandou, **apenas ajustado para Java 25** e sem mudar a estrutura do texto.
-
----
-
 # 💰 BankApp — Sistema Bancário Web com Spring Boot
 
 Aplicação web desenvolvida em **Java 25** com Spring Boot, que simula as principais operações de uma conta bancária.

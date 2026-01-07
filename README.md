@@ -60,7 +60,6 @@ HTML5
 CSS3
 
 🗂️ Estrutura do Projeto
-
 src/main/java/com/bank/bankapp
 ├── BankAppApplication.java
 ├── controller
